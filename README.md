@@ -5,3 +5,5 @@
 ### [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax)
 
 ### [Dicas e comandos basicos para git/github](https://github.com/git-tips/tips)
+
+### [Dicas e comandos basicos para JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
